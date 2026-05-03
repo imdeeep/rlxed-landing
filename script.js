@@ -2,7 +2,7 @@
    Rlxed — script.js
 ═══════════════════════════════════════════════════════ */
 
-const APK_URL = 'https://github.com/imdeeep/rlxed-landing/releases/download/v1.0.2/rlxed-v1.0.2-arm64.apk';
+const APK_URL = 'https://github.com/imdeeep/rlxed-landing/releases/download/v1.0.3/rlxed-v1.0.3-arm64.apk';
 
 /* ── Footer year ────────────────────────────────────── */
 const yearEl = document.getElementById('year');
